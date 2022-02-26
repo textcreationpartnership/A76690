@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca militum: or The souldiers publick library. Lately erected for the benefit of all that love the good old cause at Wallingford-House: and already furnished with diverse excellent treaties, herein mentioned.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76690</idno>
+            <idno type="STC">Wing B2841</idno>
+            <idno type="STC">Thomason E986_4</idno>
+            <idno type="STC">ESTC R207772</idno>
+            <idno type="EEBO-CITATION">99866803</idno>
+            <idno type="PROQUEST">99866803</idno>
+            <idno type="VID">119089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119089)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca militum: or The souldiers publick library. Lately erected for the benefit of all that love the good old cause at Wallingford-House: and already furnished with diverse excellent treaties, herein mentioned.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "June. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Restorations, Political --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119089:1" rendition="simple:additions"/>
+            <p>
+               <hi>BIBLIOTHECA MILIT<g ref="char:V">Ʋ</g>M:</hi> Or the SOULDIERS PUBLICK LIBRARY.</p>
+            <p>Lately Erected For the Benefit of all that love THE GOOD OLD CAUSE, At WALLINGFORD-House: And already furniſhed with diverſe excellent Treatiſes, herein mentioned.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_books">
+            <pb facs="tcp:119089:2"/>
+            <pb n="1" facs="tcp:119089:2"/>
+            <head>
+               <hi>Bibliotheca Militum:</hi> Or the SOULDIERS PUBLICK LIBRARY.</head>
+            <p n="1">1. <hi>THE City Compliance</hi> for gain without conſcience, written by <hi>Rob. Tychborn.</hi>
+            </p>
+            <p n="2">2. <hi>The cares of the world ſatisfied:</hi> Or a <hi>Reſt from labour,</hi> wherein is prov'd a Reſt
+<pb n="2" facs="tcp:119089:3"/>for ſuch ſouls as could find no Reſt un<g ref="char:EOLhyphen"/>der the, old Government: written by <hi>Henr. Da<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> Executioner.</p>
+            <p n="3">3. <hi>Religion in Bonds:</hi> Or the Saints Captivity and Perſecution experienc't: by <hi>John Barkſtead,</hi> Lieutenant of the <hi>Tower.</hi>
+            </p>
+            <p n="4">4. <hi>A new way to make Lords;</hi> Or new Lords already made; whereunto is ad<g ref="char:EOLhyphen"/>ded, The other Houſe, their Authority and Inſtitution; alſo are included their noble Acts and Atchievements, with their fortunes inabling them for their ſervices: written by <hi>William Prynne,</hi> Eſq.</p>
+            <p n="5">5. <hi>Perjury</hi> (in Folio) proved to be <hi>Jure Div<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>:</hi> By <hi>His late Highneſs deceaſ<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <p n="6">6. <hi>A Common-wealth expounded to be the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>afe way through this world,</hi> and the moſt certain to that <hi>which is to come:</hi> whereun<g ref="char:EOLhyphen"/>to is added, that <hi>Gain is great Godlineſs:</hi> by Sr. <hi>Arthur Haſlerig.</hi>
+            </p>
+            <p n="7">7. <hi>Verbum Doloris:</hi> Or <hi>England in mourn<g ref="char:EOLhyphen"/>ing;</hi>
+               <pb n="3" facs="tcp:119089:3"/>Prophetically foretelling the de<g ref="char:EOLhyphen"/>ſtruction of Protectors, as likewiſe of the ſucceſſion of their Families; by <hi>Rich<g ref="char:EOLhyphen"/>ard Cromwell,</hi> Eſq.</p>
+            <p n="8">8. <hi>Patience per force:</hi> Or a medicine for amad dog; treating of teh infallible virtue of neceſſity: by the aforeſaid Au<g ref="char:EOLhyphen"/>thor.</p>
+            <p n="9">9. <hi>the world in a maze, or wiſe men run mad:</hi> Alſo is added hereunto an <hi>Exhor<g ref="char:EOLhyphen"/>tation,</hi> that thoſe who have worn out Religions Cloak would get new ones, or turn the old: written by <hi>Hugh Peters,</hi> M. of Arts</p>
+            <p n="10">10. <hi>Divide &amp; impera: The art of ſup<g ref="char:EOLhyphen"/>planting or</hi> compaſſing ones ends, being a ſubtil piece dedicated to the <hi>Lord Lambert,</hi> and written by <hi>Peter Talbot,</hi> Soc. Jeſu.</p>
+            <p n="11">11. The Art of preaching and pray<g ref="char:EOLhyphen"/>ing, with the right uſe of Religion: By that incomparable Artiſt, Sr. <hi>Henry Vane.</hi> K.</p>
+            <p n="12">12. <hi>Pucana de Scoto:</hi> Or <hi>Scots directory</hi>
+               <pb n="4" facs="tcp:119089:4"/>for all ſuch as fortune ſhall hereafter make Secretaries of State, ſhewing their neceſſity of being converſant in the ſe<g ref="char:EOLhyphen"/>crets of both Sexes: moſt politickly hand<g ref="char:EOLhyphen"/>led, and written by <hi>Thomas Scot,</hi> Secre<g ref="char:EOLhyphen"/>tacy.</p>
+            <p n="13">13. <hi>Hey te Tyte,</hi> or to morrow morning I found in Horſe-ſhoe; being an excellent diſcourſe concerning Go<g ref="char:EOLhyphen"/>vernment, with ſome ſober and practi<g ref="char:EOLhyphen"/>cal expedients, modeſtly propos'd, and written by <hi>James Harrington.</hi>
+            </p>
+            <p n="14">14. <hi>Defamatio Regum.</hi> Or the Hiſtory of Ingratitude; <hi>I Burdachis experto;</hi> an Italian tranſlation: every thing and no<g ref="char:EOLhyphen"/>thing, or the compleat complier: by the Lord <hi>Fines.</hi>
+            </p>
+            <p n="15">15. <hi>Apuleius in laudem Aſini:</hi> or a Panegyrick in Commendation of his late Highnes's, ſingular virtues, and val<g ref="char:EOLhyphen"/>lor: by <hi>Pagan Fiſher.</hi>
+            </p>
+            <p n="16">16. <hi>Well flown Buzard.</hi> Or an Ho<g ref="char:EOLhyphen"/>ly Rapture of the court confeſſor, wherein the made a new and incredible
+<pb n="5" facs="tcp:119089:4"/>diſcovery of his late Highneſs, ſince his deceaſe, at the right hand of God: by <hi>Peter Sterry.</hi>
+            </p>
+            <p n="17">17. <hi>Superſtition demoliſht.</hi> Or the old Dagon puld down and removed from <hi>Weſtminſter:</hi> by the Committee of ſafety.</p>
+            <p n="18">18. <hi>A new gag for an old Gooſe:</hi> Or a reply to <hi>James Harringtons</hi> Oceana: by Mr. <hi>Wrenn.</hi>
+            </p>
+            <p n="19">19. <hi>Aſinus ad liram:</hi> Or a new way of improving the Gold finders Office, propos'd to the privy Councel for the eaſe of the City, by a Perſon of a good report, and one who petitions to be Duke of the dunghil, becauſe he has much in<g ref="char:EOLhyphen"/>ſight into a buſineſs of this nature; the firſt letters of whoſe name is, Alderman <hi>Atkinsd.</hi>
+            </p>
+            <p n="20">20. The <hi>rebels Catechiſin,</hi> tranſlated out of the Scottiſh directory; by Col. <hi>Hewſon.</hi>
+            </p>
+            <p n="21">21. <hi>Berecynthius Heros:</hi> VVherein 'tis demonſtrated, that Mr. <hi>Row</hi> is the fitteſt Orator for his Auditors oxtended ears, his
+<pb n="6" facs="tcp:119089:5"/>voice being as low as his Rhetorick, and both as lean as his Perſon.</p>
+            <p n="22">22. <hi>An owl in an Ivy-buſh:</hi> or <hi>Gilbert Millington in the Chair;</hi> together with the excellent improvement of ſcandalous Miniſters.</p>
+            <p n="23">23. <hi>A Curry-Comb for a Cox-Comb:</hi> Or <hi>Inviſible John diſcovered:</hi> by Col. Over<g ref="char:EOLhyphen"/>ton.</p>
+            <p>Theſe are the Gift of <hi>Charles</hi> Lord <hi>Fleetwood</hi> for the better encourage<g ref="char:EOLhyphen"/>ment of future benefactors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
